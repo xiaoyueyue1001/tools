@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/deposit/deposit"
+  ],
+  "window": {
+    "defaultTitle": "我的工具"
+  },
+  "tabBar": {
+    "textColor":"#ccc",
+    "selectedColor":"#fff",
+    "backgroundColor":"#999",
+    "items":[
+      {
+        "pagePath":"pages/index/index",
+        "name":"首页"
+      },
+      {
+        "pagePath":"pages/deposit/deposit",
+        "name":"计算器1"
+      }
+    ]
+  }
+}

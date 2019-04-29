@@ -1,0 +1,3 @@
+<view class="wrap">
+  <view class="calc" onTap="jump">计算器1</view>
+</view>
